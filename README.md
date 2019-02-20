@@ -20,6 +20,9 @@ analyse data using machine learning
 3. [Setting up your development enviroment](#setting-up-your-development-enviroment)
 4. [local test]
     1. [preprocess the images](#preprocess-the-images)
+    2. [distort correction for the image after strained](#distort-correction)
+    3. [sort out everthing for the analysis later on](#preperation-for-analysis)
+    4. [analysis using machine learning](#analysis-using-machine-learning)
 
 ## Requirements
 
@@ -31,5 +34,21 @@ analyse data using machine learning
 1. If you have already have a virtual environment, activate it and skip.
 
 ## Preprocess the images
+
+1. Open the file 'all_to_be_the_same_size.ipynb'
+
+## Distort-correction
+
+1. Open the file 'distorted_auto-detection_for_py.ipynb'
+
+## Preperation-for-analysis
+
+1. Open the file 'all_integrated_for4%strain-update.ipynb'
+
+## Analysis using machine learning
+
+1. Open the file 'analysis/train_predict_addNewFeatures_noQcut_strain4%.ipynb'
+
+
 
 
