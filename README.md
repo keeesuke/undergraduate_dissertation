@@ -11,3 +11,25 @@ integrate all features to make csv files
 analyse data using machine learning
 <li>analysis/train_predict_addNewFeatures_noQcut_strain4%.ipynb</li>
 
+# image recognition for TRIP steel
+
+## Table of Contents
+
+1. [Table of Contents](#table-of-contents)
+2. [Requirements](#requirements)
+3. [Setting up your development enviroment](#setting-up-your-development-enviroment)
+4. [local test]
+    1. [preprocess the images](#preprocess-the-images)
+
+## Requirements
+
+- Python 3.6/3.7
+- virtualenv
+
+## Setting up your development enviroment
+
+1. If you have already have a virtual environment, activate it and skip.
+
+## Preprocess the images
+
+
